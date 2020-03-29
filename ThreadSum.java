@@ -7,7 +7,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 
-public class MultiThreading{
+public class ThreadSum{
 	
 	static int THREAD_COUNT = 1;
 	
